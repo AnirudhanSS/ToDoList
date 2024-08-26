@@ -2,7 +2,7 @@
 
 A to-do list website made with React JS, Tailwind CSS, TypeScript, Redux Toolkit, and more.
 
-![home page](https://github.com/Anirudhanx/ToDoList/blob/master/public/To-Do%20List%20_%20All%20tasks.png)
+![home page](https://github.com/user-attachments/assets/2e015cff-9cb8-44f6-bf56-374ebbb9f8e7)
 
 ## Description
 Applied to organize your tasks with the following data: title, description, date, mark as complete and mark as important.
