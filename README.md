@@ -2,7 +2,7 @@
 
 A to-do list website made with React JS, Tailwind CSS, TypeScript, Redux Toolkit, and more.
 
-![página inicial](https://github.com/Anirudhanx/ToDoList/blob/master/public/To-Do%20List%20_%20All%20tasks.png)
+![home page](https://github.com/Anirudhanx/ToDoList/blob/master/public/To-Do%20List%20_%20All%20tasks.png)
 
 ## Description
 Applied to organize your tasks with the following data: title, description, date, mark as complete and mark as important.
@@ -12,7 +12,7 @@ You can search for any tasks in the search field.
 Today's tasks are shown in the user section and notifications.
 Task, directory, and darkmode data is saved to localStorage.
 
-## Objetivo
+## Objetive
 
 The main objective of the project is to put into practice knowledge of TypeScript, Tailwind, Redux Toolkit and React Js.
 
